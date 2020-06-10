@@ -3,7 +3,9 @@ Another gitea dark style
 
 Inspired from https://github.com/StylishThemes/GitHub-Dark-Script
 
-![](screenshot.png)
+## Screenshot
+
+![](screenshot.webp)
 
 ## How to deploy
 
